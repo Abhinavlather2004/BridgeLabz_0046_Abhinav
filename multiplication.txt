@@ -1,0 +1,1 @@
+Multiplying => a*b = c
