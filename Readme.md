@@ -10,3 +10,5 @@ Date: 3_12_2024 => Topics covered: Solved questions on arrays,basic mathematical
 Date: 4_12_2024 => Topics covered: create employee wage till uc4 . Array, list
 
 Date: 5_12_2024 => Topics covered: create employee wage till uc6 , solve assignment of ruby 
+
+
