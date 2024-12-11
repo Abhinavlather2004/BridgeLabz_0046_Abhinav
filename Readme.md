@@ -14,3 +14,5 @@ Date: 6_12_2024 => Topics covered: revise git github and topics of ruby basics .
 Date: 9_12_2024 => Topics covered: gave review and practiced codes 
 
 Date: 10_12_2024 => Topics covered: did codes for break, next, redo, retry, throw statement
+
+Date: 11_12_2024 => Topics covered: exception handling
