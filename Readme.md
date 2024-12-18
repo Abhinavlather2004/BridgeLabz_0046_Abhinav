@@ -16,3 +16,15 @@ Date: 9_12_2024 => Topics covered: gave review and practiced codes
 Date: 10_12_2024 => Topics covered: did codes for break, next, redo, retry, throw statement
 
 Date: 11_12_2024 => Topics covered: exception handling
+
+Date: 12_12_2024 => Topics covered: oops concept
+
+Date: 13_12_2024 => Topics covered: RSpec test case handling
+
+Date: 16_12_2024 => Topics covered: 2nd review
+
+Date: 17_12_2024 => Topics covered: bundlers
+
+
+
+
