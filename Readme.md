@@ -25,6 +25,10 @@ Date: 16_12_2024 => Topics covered: 2nd review
 
 Date: 17_12_2024 => Topics covered: bundlers
 
+Date: 18_12_2024 => Topics covered: basic dsa questions
+
+Date: 19_12_2024 => Topics covered: linked list questions
+
 
 
 
