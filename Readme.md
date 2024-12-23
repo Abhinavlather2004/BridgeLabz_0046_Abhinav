@@ -27,9 +27,9 @@ Date: 17_12_2024 => Topics covered: bundlers
 
 Date: 18_12_2024 => Topics covered: basic dsa questions
 
-Date: 19/12/24 , topics covered: Linked list Data Structure (solved problem on singly linked list like addition & deletion of nodes, displaying linked list, etc.)
+Date: 19_12_24 => topics covered: Linked list Data Structure (solved problem on singly linked list like addition & deletion of nodes, displaying linked list, etc.)
 
-Date: 20/12/24 , topics covered: Array Data Structure (solved problems like finding peak element and distinct element in an array).
+Date: 20_12_24 => topics covered: Array Data Structure (solved problems like finding peak element and distinct element in an array).
 
 
 
