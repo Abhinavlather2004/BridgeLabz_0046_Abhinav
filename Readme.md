@@ -33,4 +33,5 @@ Date: 20_12_24 => topics covered: Array Data Structure (solved problems like fin
 
 Date: 23_12_2024 => Topics covered: 3rd review
 
+Date: 24_12_2024 => Topics covered: basics of stack, queue and hash table. Solved problems on hash table.
 
