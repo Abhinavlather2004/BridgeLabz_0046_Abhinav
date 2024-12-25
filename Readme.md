@@ -35,3 +35,5 @@ Date: 23_12_2024 => Topics covered: 3rd review
 
 Date: 24_12_2024 => Topics covered: basics of stack, queue and hash table. Solved problems on hash table.
 
+Date: 25_12_2024 => Topics covered: basics of stack, queue and hash table. Solved problems on stack and queue.
+
