@@ -37,3 +37,9 @@ Date: 24_12_2024 => Topics covered: basics of stack, queue and hash table. Solve
 
 Date: 25_12_2024 => Topics covered: basics of stack, queue and hash table. Solved problems on stack and queue.
 
+Date: 06_01_2025 => Topics covered: review
+
+Date: 07_01_2025 => Topics covered: Practiced DSA problems
+
+
+
